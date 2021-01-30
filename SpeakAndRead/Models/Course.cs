@@ -23,5 +23,6 @@ namespace SpeakAndRead.Models
         public int LanguageId { get; set; }
         public Language Language { get; set; }
         public ICollection<Review> Reviews { get; set; }
+        public ICollection<CourseUser> CourseUsers { get; set; }
     }
 }

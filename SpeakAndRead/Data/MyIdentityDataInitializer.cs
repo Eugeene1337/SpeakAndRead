@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Identity;
+using SpeakAndRead.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +9,7 @@ namespace SpeakAndRead.Data
 {
     public class MyIdentityDataInitializer
     {
-        public static void SeedData(UserManager<IdentityUser> userManager,
+        public static void SeedData(UserManager<User> userManager,
                   RoleManager<IdentityRole> roleManager)
         {
             SeedRoles(roleManager);
@@ -36,12 +37,12 @@ namespace SpeakAndRead.Data
             }
         }
 
-        public static void SeedOneUser(UserManager<IdentityUser> userManager,
+        public static void SeedOneUser(UserManager<User> userManager,
                                         string name, string password, string role = null)
         {
             if (userManager.FindByNameAsync(name).Result == null)
             {
-                IdentityUser user = new IdentityUser
+                User user = new User
                 {
                     UserName = name, // the same like the email
                     Email = name
@@ -53,10 +54,11 @@ namespace SpeakAndRead.Data
                 }
             }
         }
-        public static void SeedUsers(UserManager<IdentityUser> userManager)
+        public static void SeedUsers(UserManager<User> userManager)
         {
             SeedOneUser(userManager, "normaluser@localhost", "nUpass1!");
             SeedOneUser(userManager, "adminuser@localhost", "aUpass1!", "Admin");
+            SeedOneUser(userManager, "adminuser2@localhost", "aUpass1!", "Admin");
             SeedOneUser(userManager, "teacheruser@localhost", "tUpass1!", "Teacher");
         }
     }
