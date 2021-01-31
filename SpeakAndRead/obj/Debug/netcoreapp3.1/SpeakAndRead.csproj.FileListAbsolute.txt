@@ -219,3 +219,4 @@ C:\Users\zheny\source\repos\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Ra
 C:\Users\zheny\source\repos\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Error.cshtml.g.cs
 C:\Users\zheny\source\repos\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
 C:\Users\zheny\source\repos\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateEnroll.cshtml.g.cs
+C:\Users\zheny\source\repos\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddRole.cshtml.g.cs

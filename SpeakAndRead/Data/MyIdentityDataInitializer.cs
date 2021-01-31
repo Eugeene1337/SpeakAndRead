@@ -35,6 +35,14 @@ namespace SpeakAndRead.Data
                 };
                 IdentityResult roleResult = roleManager.CreateAsync(role).Result;
             }
+            if (!roleManager.RoleExistsAsync("Director").Result)
+            {
+                IdentityRole role = new IdentityRole
+                {
+                    Name = "Director",
+                };
+                IdentityResult roleResult = roleManager.CreateAsync(role).Result;
+            }
         }
 
         public static void SeedOneUser(UserManager<User> userManager,
@@ -57,8 +65,9 @@ namespace SpeakAndRead.Data
         public static void SeedUsers(UserManager<User> userManager)
         {
             SeedOneUser(userManager, "normaluser@localhost", "nUpass1!");
+            SeedOneUser(userManager, "normaluse2r@localhost", "nUpass1!");
             SeedOneUser(userManager, "adminuser@localhost", "aUpass1!", "Admin");
-            SeedOneUser(userManager, "adminuser2@localhost", "aUpass1!", "Admin");
+            SeedOneUser(userManager, "directoruser@localhost", "dUpass1!", "Director");
             SeedOneUser(userManager, "teacheruser@localhost", "tUpass1!", "Teacher");
         }
     }
