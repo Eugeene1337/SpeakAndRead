@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -15,16 +16,29 @@ namespace SpeakAndRead.Controllers
     public class LessonsController : Controller
     {
         private readonly ApplicationDbContext _context;
+        UserManager<User> _userManager;
 
-        public LessonsController(ApplicationDbContext context)
+        public LessonsController(ApplicationDbContext context, UserManager<User> userManager)
         {
             _context = context;
+            _userManager = userManager;
         }
 
         // GET: Lessons
         public async Task<IActionResult> Index()
         {
-            var applicationDbContext = _context.Lessons.Include(l => l.Course);
+
+           //IQueryable<Course> courses = _context.Courses.Include(a => a.CourseId);
+            User user = _userManager.FindByNameAsync(User.Identity.Name).Result ;
+            IQueryable<Course> courses = _context.CourseUsers
+                .Where(u => u.UserId == user.Id)
+                .Join(_context.Courses, cu => cu.CourseId, c => c.CourseId, (cu, c) => c);
+
+
+            IQueryable<Lesson> lessons = _context.Lessons
+                .Join(courses, l=>l.CourseId,c=>c.CourseId, (l,c)=>l);
+            
+            var applicationDbContext = lessons.Include(l => l.Course);
             return View(await applicationDbContext.ToListAsync());
         }
 
