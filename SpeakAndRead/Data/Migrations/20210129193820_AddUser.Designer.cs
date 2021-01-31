@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using SpeakAndRead.Data;
 
 namespace SpeakAndRead.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20210129193820_AddUser")]
+    partial class AddUser
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -183,21 +185,6 @@ namespace SpeakAndRead.Data.Migrations
                     b.HasIndex("LanguageId");
 
                     b.ToTable("Courses");
-                });
-
-            modelBuilder.Entity("SpeakAndRead.Models.CourseUser", b =>
-                {
-                    b.Property<int>("CourseId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("UserId")
-                        .HasColumnType("nvarchar(450)");
-
-                    b.HasKey("CourseId", "UserId");
-
-                    b.HasIndex("UserId");
-
-                    b.ToTable("CourseUsers");
                 });
 
             modelBuilder.Entity("SpeakAndRead.Models.Language", b =>
@@ -419,21 +406,6 @@ namespace SpeakAndRead.Data.Migrations
                     b.HasOne("SpeakAndRead.Models.Language", "Language")
                         .WithMany("Courses")
                         .HasForeignKey("LanguageId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-                });
-
-            modelBuilder.Entity("SpeakAndRead.Models.CourseUser", b =>
-                {
-                    b.HasOne("SpeakAndRead.Models.Course", "Course")
-                        .WithMany("CourseUsers")
-                        .HasForeignKey("CourseId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("SpeakAndRead.Models.User", "User")
-                        .WithMany("CourseUsers")
-                        .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });

@@ -13,20 +13,21 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
+using SpeakAndRead.Models;
 
 namespace SpeakAndRead.Areas.Identity.Pages.Account
 {
     [AllowAnonymous]
     public class RegisterModel : PageModel
     {
-        private readonly SignInManager<IdentityUser> _signInManager;
-        private readonly UserManager<IdentityUser> _userManager;
+        private readonly SignInManager<User> _signInManager;
+        private readonly UserManager<User> _userManager;
         private readonly ILogger<RegisterModel> _logger;
         private readonly IEmailSender _emailSender;
 
         public RegisterModel(
-            UserManager<IdentityUser> userManager,
-            SignInManager<IdentityUser> signInManager,
+            UserManager<User> userManager,
+            SignInManager<User> signInManager,
             ILogger<RegisterModel> logger,
             IEmailSender emailSender)
         {
@@ -49,6 +50,22 @@ namespace SpeakAndRead.Areas.Identity.Pages.Account
             [EmailAddress]
             [Display(Name = "Email")]
             public string Email { get; set; }
+
+            [Required]
+            [StringLength(40, ErrorMessage = "You must enter valid name", MinimumLength = 1)]
+            [DataType(DataType.Text)]
+            [Display(Name = "Name")]
+            public string Name { get; set; }
+            [Required]
+            [StringLength(40, ErrorMessage = "You must enter valid surname", MinimumLength = 1)]
+            [DataType(DataType.Text)]
+            [Display(Name = "Surname")]
+            public string Surname { get; set; }
+            [Required]
+
+            [DataType(DataType.Date)]
+            [Display(Name = "BirthDate")]
+            public DateTime BirthDate { get; set; }
 
             [Required]
             [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
@@ -74,7 +91,7 @@ namespace SpeakAndRead.Areas.Identity.Pages.Account
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
             if (ModelState.IsValid)
             {
-                var user = new IdentityUser { UserName = Input.Email, Email = Input.Email };
+                var user = new User { UserName = Input.Email, Email = Input.Email, Name = Input.Name, Surname = Input.Surname, BirthDate = Input.BirthDate };
                 var result = await _userManager.CreateAsync(user, Input.Password);
                 if (result.Succeeded)
                 {

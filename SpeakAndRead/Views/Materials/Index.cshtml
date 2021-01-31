@@ -17,9 +17,6 @@
             <th>
                 @Html.DisplayNameFor(model => model.MaterialName)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Content)
-            </th>
             <th></th>
         </tr>
     </thead>
@@ -29,9 +26,6 @@
             <tr>
                 <td>
                     @Html.DisplayFor(modelItem => item.MaterialName)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Content)
                 </td>
                 <td>
                     @if (User.IsInRole("Admin") || User.IsInRole("Teacher"))
