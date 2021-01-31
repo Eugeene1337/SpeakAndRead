@@ -43,10 +43,17 @@
     </dl>
 </div>
 <div>
-    @if (User.IsInRole("Admin"))
+    @if ((User.IsInRole("Admin")) || (User.IsInRole("Director")))
     {
-        <a asp-action="Edit" asp-route-id="@Model.CourseId">Edit</a> 
+        <div class="btn btn-primary">
+
+            <a asp-action="Edit" asp-route-id="@Model.CourseId" style="color:whitesmoke">Edit</a>
+        </div>
+
     }
-    
-   | <a asp-action="Index">Back to List</a>
+
+<div class="btn btn-secondary">
+
+    <a asp-action="Index" style="color:whitesmoke">Back to list</a>
+</div>
 </div>

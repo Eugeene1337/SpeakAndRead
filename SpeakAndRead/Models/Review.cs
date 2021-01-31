@@ -13,7 +13,7 @@ namespace SpeakAndRead.Models
         public Course Course { get; set; }
         public string Text { get; set; }
         [Required]
-        [Range(0, 5)]
+        [Range(1, 5)]
         public int Rating { get; set; }
         public string EnteredBy { get; set; }
         public DateTime Created { get; set; }
