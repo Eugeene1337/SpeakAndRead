@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "522d5922bdf2a4327ee27b21818c613f6e852f9a"
+=======
+#pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "5089ca35d15a13c08e4f99d915df222b55e3587e"
+>>>>>>> Stashed changes
 =======
 #pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "5089ca35d15a13c08e4f99d915df222b55e3587e"
 >>>>>>> Stashed changes
@@ -114,6 +118,9 @@ Write(ViewData["Title"]);
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5089ca35d15a13c08e4f99d915df222b55e3587e9072", async() => {
                 WriteLiteral("\r\n                <h4>Use a local account to log in.</h4>\r\n                <hr />\r\n                ");
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5089ca35d15a13c08e4f99d915df222b55e3587e9431", async() => {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                 }
                 );
@@ -121,7 +128,11 @@ Write(ViewData["Title"]);
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationSummaryTagHelper);
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 14 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
+=======
+#line 15 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 15 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
 >>>>>>> Stashed changes
@@ -141,7 +152,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationSummaryTagHelper.ValidationSumma
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                <div class=\"form-group\">\r\n                    ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "522d5922bdf2a4327ee27b21818c613f6e852f9a9610", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5089ca35d15a13c08e4f99d915df222b55e3587e11175", async() => {
+>>>>>>> Stashed changes
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5089ca35d15a13c08e4f99d915df222b55e3587e11175", async() => {
 >>>>>>> Stashed changes
@@ -151,7 +166,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationSummaryTagHelper.ValidationSumma
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper);
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 16 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
+=======
+#line 17 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 17 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
 >>>>>>> Stashed changes
@@ -170,7 +189,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                    ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "522d5922bdf2a4327ee27b21818c613f6e852f9a11143", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "5089ca35d15a13c08e4f99d915df222b55e3587e12709", async() => {
+>>>>>>> Stashed changes
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "5089ca35d15a13c08e4f99d915df222b55e3587e12709", async() => {
 >>>>>>> Stashed changes
@@ -180,7 +203,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper);
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 17 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
+=======
+#line 18 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 18 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
 >>>>>>> Stashed changes
@@ -200,7 +227,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                    ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "522d5922bdf2a4327ee27b21818c613f6e852f9a12758", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5089ca35d15a13c08e4f99d915df222b55e3587e14324", async() => {
+>>>>>>> Stashed changes
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5089ca35d15a13c08e4f99d915df222b55e3587e14324", async() => {
 >>>>>>> Stashed changes
@@ -210,7 +241,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper);
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 18 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
+=======
+#line 19 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 19 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
 >>>>>>> Stashed changes
@@ -230,7 +265,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper.For = ModelExpr
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                </div>\r\n                <div class=\"form-group\">\r\n                    ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "522d5922bdf2a4327ee27b21818c613f6e852f9a14521", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5089ca35d15a13c08e4f99d915df222b55e3587e16087", async() => {
+>>>>>>> Stashed changes
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5089ca35d15a13c08e4f99d915df222b55e3587e16087", async() => {
 >>>>>>> Stashed changes
@@ -240,7 +279,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper.For = ModelExpr
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper);
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 21 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
+=======
+#line 22 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 22 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
 >>>>>>> Stashed changes
@@ -259,7 +302,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                    ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "522d5922bdf2a4327ee27b21818c613f6e852f9a16058", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "5089ca35d15a13c08e4f99d915df222b55e3587e17624", async() => {
+>>>>>>> Stashed changes
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "5089ca35d15a13c08e4f99d915df222b55e3587e17624", async() => {
 >>>>>>> Stashed changes
@@ -269,7 +316,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper);
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 22 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
+=======
+#line 23 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 23 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
 >>>>>>> Stashed changes
@@ -289,7 +340,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                    ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "522d5922bdf2a4327ee27b21818c613f6e852f9a17676", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5089ca35d15a13c08e4f99d915df222b55e3587e19242", async() => {
+>>>>>>> Stashed changes
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5089ca35d15a13c08e4f99d915df222b55e3587e19242", async() => {
 >>>>>>> Stashed changes
@@ -299,7 +354,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper);
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 23 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
+=======
+#line 24 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 24 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
 >>>>>>> Stashed changes
@@ -319,9 +378,15 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper.For = ModelExpr
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                </div>\r\n                <div class=\"form-group\">\r\n                    <div class=\"checkbox\">\r\n                        ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "522d5922bdf2a4327ee27b21818c613f6e852f9a19494", async() => {
                     WriteLiteral("\r\n                            ");
                     __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "522d5922bdf2a4327ee27b21818c613f6e852f9a19790", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5089ca35d15a13c08e4f99d915df222b55e3587e21060", async() => {
+                    WriteLiteral("\r\n                            ");
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "5089ca35d15a13c08e4f99d915df222b55e3587e21356", async() => {
+>>>>>>> Stashed changes
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5089ca35d15a13c08e4f99d915df222b55e3587e21060", async() => {
                     WriteLiteral("\r\n                            ");
@@ -333,7 +398,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper.For = ModelExpr
                     __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper);
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 28 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
+=======
+#line 29 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 29 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
 >>>>>>> Stashed changes
@@ -353,7 +422,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                     WriteLiteral("\r\n                            ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 29 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
+=======
+#line 30 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 30 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
 >>>>>>> Stashed changes
@@ -369,7 +442,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper);
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 27 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
+=======
+#line 28 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 28 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
 >>>>>>> Stashed changes
@@ -419,6 +496,9 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                    </p>\r\n                    <p>\r\n                        ");
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5089ca35d15a13c08e4f99d915df222b55e3587e26267", async() => {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                     WriteLiteral("Register as a new user");
                 }
@@ -434,9 +514,12 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvid
                 BeginWriteTagHelperAttribute();
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 40 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
                                                               WriteLiteral(Model.ReturnUrl);
 =======
+=======
+>>>>>>> Stashed changes
 #line 42 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Areas\Identity\Pages\Account\Login.cshtml"
                                                           WriteLiteral(Model.ReturnUrl);
 >>>>>>> Stashed changes
@@ -613,6 +696,9 @@ WriteAttributeValue(" ", 3094, provider.DisplayName, 3095, 21, false);
             DefineSection("Scripts", async() => {
                 WriteLiteral("\r\n    ");
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "5089ca35d15a13c08e4f99d915df222b55e3587e36767", async() => {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                 }
                 );

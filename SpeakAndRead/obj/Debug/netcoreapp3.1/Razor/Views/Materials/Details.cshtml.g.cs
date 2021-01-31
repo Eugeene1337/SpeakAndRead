@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Materials\Details.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "6907728e246a4af18a310d4aad7d6a6d70253d8d"
+=======
+#pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Materials\Details.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "3c364fe83f015851d32b00eff93eb937b66ddc51"
+>>>>>>> Stashed changes
 =======
 #pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Materials\Details.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "3c364fe83f015851d32b00eff93eb937b66ddc51"
 >>>>>>> Stashed changes
@@ -117,6 +121,9 @@ using SpeakAndRead.Models;
 =======
             WriteLiteral("        ");
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3c364fe83f015851d32b00eff93eb937b66ddc515685", async() => {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                 WriteLiteral("Edit");
             }
@@ -132,7 +139,11 @@ using SpeakAndRead.Models;
             BeginWriteTagHelperAttribute();
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 32 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Materials\Details.cshtml"
+=======
+#line 30 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Materials\Details.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 30 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Materials\Details.cshtml"
 >>>>>>> Stashed changes
@@ -155,7 +166,11 @@ using SpeakAndRead.Models;
             WriteLiteral("\r\n    </div>\r\n");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 34 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Materials\Details.cshtml"
+=======
+#line 31 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Materials\Details.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 31 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Materials\Details.cshtml"
 >>>>>>> Stashed changes

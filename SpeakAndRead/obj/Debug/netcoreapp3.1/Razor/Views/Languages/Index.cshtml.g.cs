@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "39cd1f6adbaa3fad09f14953ac4ab2bc245a5f57"
+=======
+#pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "02d5e4f4ef1f9ba1db48c701339e47a79bbf0b50"
+>>>>>>> Stashed changes
 =======
 #pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "02d5e4f4ef1f9ba1db48c701339e47a79bbf0b50"
 >>>>>>> Stashed changes
@@ -98,7 +102,11 @@ using SpeakAndRead.Models;
             WriteLiteral("\r\n</div>\r\n<table class=\"table\">\r\n    <thead>\r\n        <tr>\r\n            <th>\r\n                ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 17 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml"
+=======
+#line 16 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 16 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml"
 >>>>>>> Stashed changes
@@ -110,7 +118,11 @@ using SpeakAndRead.Models;
             WriteLiteral("\r\n            </th>\r\n            <th></th>\r\n        </tr>\r\n    </thead>\r\n    <tbody>\r\n");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 23 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml"
+=======
+#line 22 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 22 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml"
 >>>>>>> Stashed changes
@@ -122,7 +134,11 @@ using SpeakAndRead.Models;
             WriteLiteral("        <tr>\r\n            <td>\r\n                ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 26 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml"
+=======
+#line 25 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 25 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml"
 >>>>>>> Stashed changes
@@ -137,6 +153,9 @@ using SpeakAndRead.Models;
 =======
             WriteLiteral("\r\n            </td>\r\n            <td>\r\n                ");
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02d5e4f4ef1f9ba1db48c701339e47a79bbf0b506833", async() => {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                 WriteLiteral("Edit");
             }
@@ -152,9 +171,12 @@ using SpeakAndRead.Models;
             BeginWriteTagHelperAttribute();
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 31 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml"
                                            WriteLiteral(item.LanguageId);
 =======
+=======
+>>>>>>> Stashed changes
 #line 28 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml"
                                        WriteLiteral(item.LanguageId);
 >>>>>>> Stashed changes
@@ -179,6 +201,9 @@ using SpeakAndRead.Models;
 =======
             WriteLiteral(" |\r\n                ");
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02d5e4f4ef1f9ba1db48c701339e47a79bbf0b509010", async() => {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                 WriteLiteral("Details");
             }
@@ -194,9 +219,12 @@ using SpeakAndRead.Models;
             BeginWriteTagHelperAttribute();
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 36 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml"
                                               WriteLiteral(item.LanguageId);
 =======
+=======
+>>>>>>> Stashed changes
 #line 29 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml"
                                           WriteLiteral(item.LanguageId);
 >>>>>>> Stashed changes
@@ -221,6 +249,9 @@ using SpeakAndRead.Models;
 =======
             WriteLiteral(" |\r\n                ");
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02d5e4f4ef1f9ba1db48c701339e47a79bbf0b5011193", async() => {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                 WriteLiteral("Delete");
             }
@@ -236,9 +267,12 @@ using SpeakAndRead.Models;
             BeginWriteTagHelperAttribute();
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 40 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml"
                                              WriteLiteral(item.LanguageId);
 =======
+=======
+>>>>>>> Stashed changes
 #line 30 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml"
                                          WriteLiteral(item.LanguageId);
 >>>>>>> Stashed changes
@@ -260,7 +294,11 @@ using SpeakAndRead.Models;
             WriteLiteral("\r\n                </div>\r\n            </td>\r\n        </tr>\r\n");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 44 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml"
+=======
+#line 33 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 33 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Languages\Index.cshtml"
 >>>>>>> Stashed changes

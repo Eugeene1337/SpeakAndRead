@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "a612663d7878b9d69172d0432ba17f89827494db"
+=======
+#pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "b2417348c507b1f9ae1075a67824e2a7ef03305a"
+>>>>>>> Stashed changes
 =======
 #pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "b2417348c507b1f9ae1075a67824e2a7ef03305a"
 >>>>>>> Stashed changes
@@ -107,7 +111,11 @@ using SpeakAndRead.Models;
             WriteLiteral("\r\n</div>\r\n");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 15 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+=======
+#line 14 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 14 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
 >>>>>>> Stashed changes
@@ -119,7 +127,11 @@ using SpeakAndRead.Models;
             WriteLiteral("\r\n<table class=\"table\">\r\n    <thead>\r\n        <tr>\r\n            <th>\r\n                ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 21 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+=======
+#line 20 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 20 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
 >>>>>>> Stashed changes
@@ -131,7 +143,11 @@ using SpeakAndRead.Models;
             WriteLiteral("\r\n            </th>\r\n            <th>\r\n                ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 24 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+=======
+#line 23 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 23 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
 >>>>>>> Stashed changes
@@ -143,7 +159,11 @@ using SpeakAndRead.Models;
             WriteLiteral("\r\n            </th>\r\n            <th>\r\n                ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 27 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+=======
+#line 26 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 26 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
 >>>>>>> Stashed changes
@@ -155,7 +175,11 @@ using SpeakAndRead.Models;
             WriteLiteral("\r\n            </th>\r\n            <th></th>\r\n        </tr>\r\n    </thead>\r\n    <tbody>\r\n");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 33 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+=======
+#line 32 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 32 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
 >>>>>>> Stashed changes
@@ -168,7 +192,11 @@ using SpeakAndRead.Models;
             WriteLiteral("            <tr>\r\n                <td>\r\n                    ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 37 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+=======
+#line 36 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 36 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
 >>>>>>> Stashed changes
@@ -180,7 +208,11 @@ using SpeakAndRead.Models;
             WriteLiteral("\r\n                </td>\r\n                <td>\r\n                    ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 40 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+=======
+#line 39 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 39 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
 >>>>>>> Stashed changes
@@ -192,7 +224,11 @@ using SpeakAndRead.Models;
             WriteLiteral("\r\n                </td>\r\n                <td>\r\n                    ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 43 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+=======
+#line 42 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 42 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
 >>>>>>> Stashed changes
@@ -204,7 +240,11 @@ using SpeakAndRead.Models;
             WriteLiteral("\r\n                </td>\r\n                <td>\r\n");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 46 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+=======
+#line 45 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 45 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
 >>>>>>> Stashed changes
@@ -220,6 +260,9 @@ using SpeakAndRead.Models;
 =======
             WriteLiteral("                        ");
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2417348c507b1f9ae1075a67824e2a7ef03305a8923", async() => {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                 WriteLiteral("Edit");
             }
@@ -235,7 +278,11 @@ using SpeakAndRead.Models;
             BeginWriteTagHelperAttribute();
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 50 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+=======
+#line 47 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 47 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
 >>>>>>> Stashed changes
@@ -258,7 +305,11 @@ using SpeakAndRead.Models;
             WriteLiteral("\r\n                    </div>\r\n");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 52 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+=======
+#line 48 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 48 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
 >>>>>>> Stashed changes
@@ -273,6 +324,9 @@ using SpeakAndRead.Models;
 =======
             WriteLiteral("                    \r\n                    |");
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2417348c507b1f9ae1075a67824e2a7ef03305a11348", async() => {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                 WriteLiteral("Details");
             }
@@ -288,9 +342,12 @@ using SpeakAndRead.Models;
             BeginWriteTagHelperAttribute();
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 56 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
                                               WriteLiteral(item.LessonId);
 =======
+=======
+>>>>>>> Stashed changes
 #line 50 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
                                                WriteLiteral(item.LessonId);
 >>>>>>> Stashed changes
@@ -312,7 +369,11 @@ using SpeakAndRead.Models;
             WriteLiteral("\r\n                </div>\r\n\r\n");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 59 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+=======
+#line 52 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 52 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
 >>>>>>> Stashed changes
@@ -328,6 +389,9 @@ using SpeakAndRead.Models;
 =======
             WriteLiteral("                        ");
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2417348c507b1f9ae1075a67824e2a7ef03305a13840", async() => {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                 WriteLiteral("Delete");
             }
@@ -343,9 +407,12 @@ using SpeakAndRead.Models;
             BeginWriteTagHelperAttribute();
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 63 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
                                              WriteLiteral(item.LessonId);
 =======
+=======
+>>>>>>> Stashed changes
 #line 54 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
                                                  WriteLiteral(item.LessonId);
 >>>>>>> Stashed changes
@@ -367,7 +434,11 @@ using SpeakAndRead.Models;
             WriteLiteral("\r\n                </div>\r\n");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 65 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+=======
+#line 55 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 55 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
 >>>>>>> Stashed changes
@@ -379,7 +450,11 @@ using SpeakAndRead.Models;
             WriteLiteral("                </td>\r\n            </tr>\r\n");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 68 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+=======
+#line 58 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 58 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Index.cshtml"
 >>>>>>> Stashed changes

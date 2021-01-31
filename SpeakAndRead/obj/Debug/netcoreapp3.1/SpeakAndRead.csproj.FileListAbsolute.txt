@@ -218,9 +218,14 @@ C:\Users\zheny\source\repos\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Ra
 C:\Users\zheny\source\repos\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Views\Lessons\Index.cshtml.g.cs
 C:\Users\zheny\source\repos\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Error.cshtml.g.cs
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 C:\Users\zheny\source\repos\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
 C:\Users\zheny\source\repos\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateEnroll.cshtml.g.cs
 C:\Users\zheny\source\repos\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddRole.cshtml.g.cs
+=======
+C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\SpeakAndRead.dll
+C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\SpeakAndRead.pdb
+>>>>>>> Stashed changes
 =======
 C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\SpeakAndRead.dll
 C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\SpeakAndRead.pdb
@@ -402,9 +407,12 @@ C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\R
 C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddRole.cshtml.g.cs
 C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateEnroll.cshtml.g.cs
 C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Create.cshtml.g.cs
@@ -446,6 +454,7 @@ C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\S
 C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\SpeakAndRead.Views.pdb
 C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\SpeakAndRead.csproj.CopyComplete
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\SpeakAndRead.dll
 C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\SpeakAndRead.pdb
 C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\SpeakAndRead.genruntimeconfig.cache
@@ -480,6 +489,9 @@ C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\R
 C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
 C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
 C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+=======
+C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\SpeakAndRead.genruntimeconfig.cache
+>>>>>>> Stashed changes
 =======
 C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\SpeakAndRead.genruntimeconfig.cache
 >>>>>>> Stashed changes

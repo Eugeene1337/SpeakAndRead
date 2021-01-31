@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Details.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "b29410e43f84d0de6e118067b2d7451825a42a16"
+=======
+#pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Details.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "ef25b52542c614aa085d92b8ea6e0de9ca3474f3"
+>>>>>>> Stashed changes
 =======
 #pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Details.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "ef25b52542c614aa085d92b8ea6e0de9ca3474f3"
 >>>>>>> Stashed changes
@@ -124,6 +128,9 @@ using SpeakAndRead.Models;
 =======
             WriteLiteral("\r\n        </dd>\r\n    </dl>\r\n</div>\r\n<div>\r\n    ");
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ef25b52542c614aa085d92b8ea6e0de9ca3474f36034", async() => {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                 WriteLiteral("Edit");
             }
@@ -139,9 +146,12 @@ using SpeakAndRead.Models;
             BeginWriteTagHelperAttribute();
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 36 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Details.cshtml"
                                WriteLiteral(Model.LessonId);
 =======
+=======
+>>>>>>> Stashed changes
 #line 34 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Details.cshtml"
                            WriteLiteral(Model.LessonId);
 >>>>>>> Stashed changes

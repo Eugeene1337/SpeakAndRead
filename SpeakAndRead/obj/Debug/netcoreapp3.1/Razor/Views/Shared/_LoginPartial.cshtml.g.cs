@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Shared\_LoginPartial.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "e8f911bb924f58955aa959b57c208222c74e74ae"
+=======
+#pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Shared\_LoginPartial.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "eb6b06876c970ec21dbfdcf2953e86f4184913c4"
+>>>>>>> Stashed changes
 =======
 #pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Shared\_LoginPartial.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "eb6b06876c970ec21dbfdcf2953e86f4184913c4"
 >>>>>>> Stashed changes
@@ -86,6 +90,7 @@ using Microsoft.AspNetCore.Identity;
 #nullable disable
             WriteLiteral("    <li class=\"nav-item\">\r\n        ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e8f911bb924f58955aa959b57c208222c74e74ae6523", async() => {
                 WriteLiteral("Hello ");
 #nullable restore
@@ -96,6 +101,12 @@ using Microsoft.AspNetCore.Identity;
                 WriteLiteral("Hello ");
 #nullable restore
 #line 9 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Shared\_LoginPartial.cshtml"
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eb6b06876c970ec21dbfdcf2953e86f4184913c46511", async() => {
+                WriteLiteral("Hello ");
+#nullable restore
+#line 9 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Shared\_LoginPartial.cshtml"
+>>>>>>> Stashed changes
                                                                                                             Write(User.Identity.Name);
 >>>>>>> Stashed changes
 
@@ -122,9 +133,12 @@ using Microsoft.AspNetCore.Identity;
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n    </li>\r\n    <li class=\"nav-item\">\r\n        ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e8f911bb924f58955aa959b57c208222c74e74ae8436", async() => {
                 WriteLiteral("\r\n            <button  type=\"submit\" class=\"nav-link btn btn-link text-light\">Logout</button>\r\n        ");
 =======
+=======
+>>>>>>> Stashed changes
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eb6b06876c970ec21dbfdcf2953e86f4184913c48423", async() => {
                 WriteLiteral("\r\n            <button  type=\"submit\" class=\"nav-link btn btn-link text-dark\">Logout</button>\r\n        ");
 >>>>>>> Stashed changes
@@ -147,8 +161,11 @@ using Microsoft.AspNetCore.Identity;
 #nullable restore
 #line 12 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Shared\_LoginPartial.cshtml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                                                                                                       WriteLiteral(Url.Action("Index", "Home", new { area = "" }));
 =======
+=======
+>>>>>>> Stashed changes
                                                                                            WriteLiteral(Url.Action("Index", "Home", new { area = "" }));
 >>>>>>> Stashed changes
 
@@ -177,7 +194,11 @@ else
 #nullable disable
             WriteLiteral("    <li class=\"nav-item\">\r\n        ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e8f911bb924f58955aa959b57c208222c74e74ae11643", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eb6b06876c970ec21dbfdcf2953e86f4184913c411618", async() => {
+>>>>>>> Stashed changes
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eb6b06876c970ec21dbfdcf2953e86f4184913c411618", async() => {
 >>>>>>> Stashed changes
@@ -200,7 +221,11 @@ else
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n    </li>\r\n    <li class=\"nav-item\">\r\n        ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e8f911bb924f58955aa959b57c208222c74e74ae13134", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eb6b06876c970ec21dbfdcf2953e86f4184913c413109", async() => {
+>>>>>>> Stashed changes
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eb6b06876c970ec21dbfdcf2953e86f4184913c413109", async() => {
 >>>>>>> Stashed changes

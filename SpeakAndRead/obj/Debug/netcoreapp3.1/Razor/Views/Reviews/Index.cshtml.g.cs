@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "bbd6d56ebcf3e0631f59293a38d5fd9651583f57"
+=======
+#pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "c8a69bc9887af3fa1e8fbae6a1bda97d9f08fc39"
+>>>>>>> Stashed changes
 =======
 #pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "c8a69bc9887af3fa1e8fbae6a1bda97d9f08fc39"
 >>>>>>> Stashed changes
@@ -114,7 +118,11 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\r\n</div>\r\n");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 17 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+=======
+#line 16 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 16 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
 >>>>>>> Stashed changes
@@ -126,7 +134,11 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("<table class=\"table\">\r\n    <thead>\r\n        <tr>\r\n            <th>\r\n                ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 22 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+=======
+#line 21 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 21 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
 >>>>>>> Stashed changes
@@ -138,7 +150,11 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\r\n            </th>\r\n            <th>\r\n                ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 25 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+=======
+#line 24 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 24 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
 >>>>>>> Stashed changes
@@ -150,7 +166,11 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\r\n            </th>\r\n            <th>\r\n                ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 28 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+=======
+#line 27 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 27 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
 >>>>>>> Stashed changes
@@ -162,7 +182,11 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\r\n            </th>\r\n            <th>\r\n                ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 31 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+=======
+#line 30 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 30 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
 >>>>>>> Stashed changes
@@ -174,7 +198,11 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\r\n            </th>\r\n            <th>\r\n                ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 34 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+=======
+#line 33 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 33 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
 >>>>>>> Stashed changes
@@ -186,7 +214,11 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\r\n            </th>\r\n            <th></th>\r\n        </tr>\r\n    </thead>\r\n    <tbody>\r\n");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 40 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+=======
+#line 39 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 39 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
 >>>>>>> Stashed changes
@@ -199,7 +231,11 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("        <tr>\r\n            <td>\r\n                ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 44 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+=======
+#line 43 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 43 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
 >>>>>>> Stashed changes
@@ -211,7 +247,11 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\r\n            </td>\r\n            <td>\r\n                ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 47 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+=======
+#line 46 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 46 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
 >>>>>>> Stashed changes
@@ -223,7 +263,11 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\r\n            </td>\r\n            <td>\r\n                ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 50 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+=======
+#line 49 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 49 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
 >>>>>>> Stashed changes
@@ -235,7 +279,11 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\r\n            </td>\r\n            <td>\r\n                ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 53 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+=======
+#line 52 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 52 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
 >>>>>>> Stashed changes
@@ -247,7 +295,11 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\r\n            </td>\r\n            <td>\r\n                ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 56 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+=======
+#line 55 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 55 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
 >>>>>>> Stashed changes
@@ -259,7 +311,11 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\r\n            </td>\r\n");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 58 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+=======
+#line 57 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 57 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
 >>>>>>> Stashed changes
@@ -275,6 +331,9 @@ using Microsoft.AspNetCore.Identity;
 =======
             WriteLiteral("                <td>\r\n                    ");
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c8a69bc9887af3fa1e8fbae6a1bda97d9f08fc3910270", async() => {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                 WriteLiteral("Edit");
             }
@@ -290,9 +349,12 @@ using Microsoft.AspNetCore.Identity;
             BeginWriteTagHelperAttribute();
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 63 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
                                        WriteLiteral(item.CourseId);
 =======
+=======
+>>>>>>> Stashed changes
 #line 60 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
                                            WriteLiteral(item.ReviewId);
 >>>>>>> Stashed changes
@@ -317,6 +379,9 @@ using Microsoft.AspNetCore.Identity;
 =======
             WriteLiteral(" |\r\n                    ");
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c8a69bc9887af3fa1e8fbae6a1bda97d9f08fc3912452", async() => {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                 WriteLiteral("Details");
             }
@@ -332,9 +397,12 @@ using Microsoft.AspNetCore.Identity;
             BeginWriteTagHelperAttribute();
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 67 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
                                           WriteLiteral(item.CourseId);
 =======
+=======
+>>>>>>> Stashed changes
 #line 61 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
                                               WriteLiteral(item.ReviewId);
 >>>>>>> Stashed changes
@@ -359,6 +427,9 @@ using Microsoft.AspNetCore.Identity;
 =======
             WriteLiteral(" |\r\n                    ");
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c8a69bc9887af3fa1e8fbae6a1bda97d9f08fc3914640", async() => {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                 WriteLiteral("Delete");
             }
@@ -374,9 +445,12 @@ using Microsoft.AspNetCore.Identity;
             BeginWriteTagHelperAttribute();
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 71 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
                                          WriteLiteral(item.CourseId);
 =======
+=======
+>>>>>>> Stashed changes
 #line 62 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
                                              WriteLiteral(item.ReviewId);
 >>>>>>> Stashed changes
@@ -398,7 +472,11 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\r\n            </div>\r\n        </td>\r\n");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 74 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+=======
+#line 64 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 64 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
 >>>>>>> Stashed changes
@@ -410,7 +488,11 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("            </tr>\r\n");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 76 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+=======
+#line 66 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 66 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Reviews\Index.cshtml"
 >>>>>>> Stashed changes

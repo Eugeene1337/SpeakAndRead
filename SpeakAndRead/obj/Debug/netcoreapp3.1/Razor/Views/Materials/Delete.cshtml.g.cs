@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Materials\Delete.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "ad3b2edb58bf9363d41a83ca3830fd0aa2718faf"
+=======
+#pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Materials\Delete.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "bcd75ab869fcf7bc6618a2bee163c59b00af0a19"
+>>>>>>> Stashed changes
 =======
 #pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Materials\Delete.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "bcd75ab869fcf7bc6618a2bee163c59b00af0a19"
 >>>>>>> Stashed changes
@@ -108,9 +112,15 @@ using SpeakAndRead.Models;
 #nullable disable
             WriteLiteral("\r\n        </dd>\r\n    </dl>\r\n    \r\n    ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ad3b2edb58bf9363d41a83ca3830fd0aa2718faf6506", async() => {
                 WriteLiteral("\r\n        ");
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ad3b2edb58bf9363d41a83ca3830fd0aa2718faf6772", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bcd75ab869fcf7bc6618a2bee163c59b00af0a196150", async() => {
+                WriteLiteral("\r\n        ");
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "bcd75ab869fcf7bc6618a2bee163c59b00af0a196416", async() => {
+>>>>>>> Stashed changes
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bcd75ab869fcf7bc6618a2bee163c59b00af0a196150", async() => {
                 WriteLiteral("\r\n        ");

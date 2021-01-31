@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Courses\Details.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "df1dc93f5f18065b1abd8e08007ada4834549333"
+=======
+#pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Courses\Details.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "f260372e5ac42539a7f4378bf97a0b0a55951b89"
+>>>>>>> Stashed changes
 =======
 #pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Courses\Details.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "f260372e5ac42539a7f4378bf97a0b0a55951b89"
 >>>>>>> Stashed changes
@@ -154,8 +158,11 @@ using SpeakAndRead.Models;
 #nullable restore
 #line 46 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Courses\Details.cshtml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
      if ((User.IsInRole("Admin")) || (User.IsInRole("Director")))
 =======
+=======
+>>>>>>> Stashed changes
      if (User.IsInRole("Admin"))
 >>>>>>> Stashed changes
     {
@@ -169,6 +176,9 @@ using SpeakAndRead.Models;
 =======
             WriteLiteral("        ");
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f260372e5ac42539a7f4378bf97a0b0a55951b897589", async() => {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                 WriteLiteral("Edit");
             }
@@ -184,9 +194,12 @@ using SpeakAndRead.Models;
             BeginWriteTagHelperAttribute();
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 50 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Courses\Details.cshtml"
                                    WriteLiteral(Model.CourseId);
 =======
+=======
+>>>>>>> Stashed changes
 #line 48 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Courses\Details.cshtml"
                                WriteLiteral(Model.CourseId);
 >>>>>>> Stashed changes
@@ -208,8 +221,12 @@ using SpeakAndRead.Models;
             WriteLiteral("\r\n        </div>\r\n");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 52 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Courses\Details.cshtml"
 
+=======
+#line 49 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Courses\Details.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 49 "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Courses\Details.cshtml"
 >>>>>>> Stashed changes

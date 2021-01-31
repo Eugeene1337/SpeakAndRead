@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Delete.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "e805caa4cfefb3814e1a0c3bd481eda731e6d255"
+=======
+#pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Delete.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "226f53c49676aa7c604dd6f7c6a4ccdc3b2c1822"
+>>>>>>> Stashed changes
 =======
 #pragma checksum "C:\Users\iwo\OneDrive\Pulpit\SpeakAndRead\SpeakAndRead\Views\Lessons\Delete.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "226f53c49676aa7c604dd6f7c6a4ccdc3b2c1822"
 >>>>>>> Stashed changes
@@ -124,9 +128,15 @@ using SpeakAndRead.Models;
 #nullable disable
             WriteLiteral("\r\n        </dd>\r\n    </dl>\r\n    \r\n    ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e805caa4cfefb3814e1a0c3bd481eda731e6d2557130", async() => {
                 WriteLiteral("\r\n        ");
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "e805caa4cfefb3814e1a0c3bd481eda731e6d2557396", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "226f53c49676aa7c604dd6f7c6a4ccdc3b2c18226774", async() => {
+                WriteLiteral("\r\n        ");
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "226f53c49676aa7c604dd6f7c6a4ccdc3b2c18227040", async() => {
+>>>>>>> Stashed changes
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "226f53c49676aa7c604dd6f7c6a4ccdc3b2c18226774", async() => {
                 WriteLiteral("\r\n        ");
@@ -159,6 +169,9 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
 =======
                 WriteLiteral("\r\n        <input type=\"submit\" value=\"Delete\" class=\"btn btn-danger\" /> |\r\n        ");
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "226f53c49676aa7c604dd6f7c6a4ccdc3b2c18228835", async() => {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                     WriteLiteral("Back to List");
                 }
