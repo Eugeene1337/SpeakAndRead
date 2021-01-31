@@ -16,10 +16,11 @@ namespace SpeakAndRead.Models
         [Required]
         [MaxLength(60)]
         public string CourseName { get; set; }
+        [Required]
         public Level Level { get; set; }
         public string Description { get; set; }
         [Required]
-        public double Price { get; set; }
+        public int Price { get; set; }
         public int LanguageId { get; set; }
         public Language Language { get; set; }
         public ICollection<Review> Reviews { get; set; }
