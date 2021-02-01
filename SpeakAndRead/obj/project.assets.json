@@ -9189,25 +9189,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\iwo\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\zheny\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iwo\\OneDrive\\Pulpit\\SpeakAndRead\\SpeakAndRead\\SpeakAndRead.csproj",
+      "projectUniqueName": "C:\\Users\\zheny\\source\\repos\\SpeakAndRead\\SpeakAndRead\\SpeakAndRead.csproj",
       "projectName": "SpeakAndRead",
-      "projectPath": "C:\\Users\\iwo\\OneDrive\\Pulpit\\SpeakAndRead\\SpeakAndRead\\SpeakAndRead.csproj",
-      "packagesPath": "C:\\Users\\iwo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iwo\\OneDrive\\Pulpit\\SpeakAndRead\\SpeakAndRead\\obj\\",
+      "projectPath": "C:\\Users\\zheny\\source\\repos\\SpeakAndRead\\SpeakAndRead\\SpeakAndRead.csproj",
+      "packagesPath": "C:\\Users\\zheny\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zheny\\source\\repos\\SpeakAndRead\\SpeakAndRead\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\iwo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\zheny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -9218,7 +9213,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -9230,7 +9224,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
             "target": "Package",
@@ -9281,7 +9274,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
