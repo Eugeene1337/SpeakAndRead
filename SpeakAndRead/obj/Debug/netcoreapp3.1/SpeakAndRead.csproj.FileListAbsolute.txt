@@ -251,3 +251,6 @@ C:\Users\zheny\source\repos\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Sp
 C:\Users\zheny\source\repos\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\SpeakAndRead.pdb
 C:\Users\zheny\source\repos\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\SpeakAndRead.genruntimeconfig.cache
 C:\Users\zheny\source\repos\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\SpeakAndRead.csprojAssemblyReference.cache
+C:\Users\zheny\source\repos\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Views\Home\Teachers.cshtml.g.cs
+C:\Users\zheny\source\repos\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\zheny\source\repos\SpeakAndRead\SpeakAndRead\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Details.cshtml.g.cs

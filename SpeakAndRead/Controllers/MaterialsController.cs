@@ -46,7 +46,7 @@ namespace SpeakAndRead.Controllers
         }
 
         // GET: Materials/Create
-        [Authorize(Roles = "Admin, Teacher")]
+        [Authorize(Roles = "Admin, Teacher, Director")]
         public IActionResult Create()
         {
             return View();
@@ -55,7 +55,7 @@ namespace SpeakAndRead.Controllers
         // POST: Materials/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [Authorize(Roles = "Admin, Teacher")]
+        [Authorize(Roles = "Admin, Teacher, Director")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("MaterialId,MaterialName,Content")] Material material)
@@ -70,7 +70,7 @@ namespace SpeakAndRead.Controllers
         }
 
         // GET: Materials/Edit/5
-        [Authorize(Roles = "Admin, Teacher")]
+        [Authorize(Roles = "Admin, Teacher, Director")]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -89,7 +89,7 @@ namespace SpeakAndRead.Controllers
         // POST: Materials/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [Authorize(Roles = "Admin, Teacher")]
+        [Authorize(Roles = "Admin, Teacher, Director")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("MaterialId,MaterialName,Content")] Material material)
@@ -123,7 +123,7 @@ namespace SpeakAndRead.Controllers
         }
 
         // GET: Materials/Delete/5
-        [Authorize(Roles = "Admin, Teacher")]
+        [Authorize(Roles = "Admin, Teacher, Director")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -142,7 +142,7 @@ namespace SpeakAndRead.Controllers
         }
 
         // POST: Materials/Delete/5
-        [Authorize(Roles = "Admin, Teacher")]
+        [Authorize(Roles = "Admin, Teacher, Director")]
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)

@@ -3,8 +3,7 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Users</h1>
-
+<h1>Teachers</h1>
 
 <table class="table">
     <thead class="thead-dark">
@@ -41,16 +40,12 @@
                     @Html.DisplayFor(modelItem => item.BirthDate)
                 </td>
                 <td>
-                    @if (User.IsInRole("Admin"))
-                    {
-                    
-                    <div class="btn btn-primary">
+                        <div class="btn btn-primary">
 
-                        <a asp-action="Details" asp-route-id="@item.Id" style="color:whitesmoke">Details</a>
-                    </div>
-                    
-                    
-                    }
+                            <a asp-action="Details" asp-route-id="@item.Id" style="color:whitesmoke">Details</a>
+
+                        </div>
+
                 </td>
             </tr>
         }

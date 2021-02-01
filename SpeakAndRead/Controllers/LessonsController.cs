@@ -62,6 +62,7 @@ namespace SpeakAndRead.Controllers
         }
 
         // GET: Lessons/Create
+        [Authorize(Roles = "Admin, Teacher, Director")]
         public IActionResult Create()
         {
             ViewData["CourseId"] = new SelectList(_context.Courses, "CourseId", "CourseName");
@@ -71,6 +72,7 @@ namespace SpeakAndRead.Controllers
         // POST: Lessons/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        [Authorize(Roles = "Admin, Teacher, Director")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("LessonId,CourseId,DateTime,Link")] Lesson lesson)
@@ -84,7 +86,7 @@ namespace SpeakAndRead.Controllers
             ViewData["CourseId"] = new SelectList(_context.Courses, "CourseId", "CourseName", lesson.CourseId);
             return View(lesson);
         }
-
+        [Authorize(Roles = "Admin, Teacher, Director")]
         // GET: Lessons/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
@@ -101,7 +103,7 @@ namespace SpeakAndRead.Controllers
             ViewData["CourseId"] = new SelectList(_context.Courses, "CourseId", "CourseName", lesson.CourseId);
             return View(lesson);
         }
-
+        [Authorize(Roles = "Admin, Teacher, Director")]
         // POST: Lessons/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
@@ -137,7 +139,7 @@ namespace SpeakAndRead.Controllers
             ViewData["CourseId"] = new SelectList(_context.Courses, "CourseId", "CourseName", lesson.CourseId);
             return View(lesson);
         }
-
+        [Authorize(Roles = "Admin, Teacher, Director")]
         // GET: Lessons/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
@@ -156,7 +158,7 @@ namespace SpeakAndRead.Controllers
 
             return View(lesson);
         }
-
+        [Authorize(Roles = "Admin, Teacher, Director")]
         // POST: Lessons/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]

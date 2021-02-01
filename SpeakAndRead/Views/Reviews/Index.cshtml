@@ -8,15 +8,9 @@
 
 <h1>Reviews</h1>
 
-@if (SignInManager.IsSignedIn(User))
-{
-<div class="btn btn-primary mb-2 mt-2">
 
-    <a asp-action="Create" style="color:whitesmoke">Add Opinion</a>
-</div>
-}
 <table class="table">
-    <thead>
+    <thead class="thead-dark">
         <tr>
             <th>
                 @Html.DisplayNameFor(model => model.Course)
@@ -39,40 +33,47 @@
     <tbody>
         @foreach (var item in Model)
         {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Course.CourseName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Text)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Rating)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.EnteredBy)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Created)
-            </td>
-            @if (SignInManager.IsSignedIn(User))
-            {
-        <td>
-            <div class="btn btn-primary">
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Course.CourseName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Text)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Rating)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EnteredBy)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Created)
+                </td>
+                @if (SignInManager.IsSignedIn(User))
+                {
+                    <td>
+                        <div class="btn btn-primary">
 
-                <a asp-action="Edit" asp-route-id="@item.CourseId" style="color:whitesmoke">Edit</a>
-            </div>
-            <div class="btn btn-primary">
+                            <a asp-action="Edit" asp-route-id="@item.CourseId" style="color:whitesmoke">Edit</a>
+                        </div>
+                        <div class="btn btn-primary">
 
-                <a asp-action="Details" asp-route-id="@item.CourseId" style="color:whitesmoke">Details</a>
-            </div>
-            <div class="btn btn-danger">
+                            <a asp-action="Details" asp-route-id="@item.CourseId" style="color:whitesmoke">Details</a>
+                        </div>
+                        <div class="btn btn-danger">
 
-                <a asp-action="Delete" asp-route-id="@item.CourseId" style="color:whitesmoke">Delete</a>
-            </div>
-        </td>
-            }
+                            <a asp-action="Delete" asp-route-id="@item.CourseId" style="color:whitesmoke">Delete</a>
+                        </div>
+                    </td>
+                }
             </tr>
         }
     </tbody>
 </table>
+@if (SignInManager.IsSignedIn(User))
+{
+    <div class="btn btn-primary mb-2 mt-2">
+
+        <a asp-action="Create" style="color:whitesmoke">Add Opinion</a>
+    </div>
+}

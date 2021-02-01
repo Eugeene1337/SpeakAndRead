@@ -11,7 +11,7 @@ using SpeakAndRead.Models;
 
 namespace SpeakAndRead.Controllers
 {
-    [Authorize(Roles = "Admin")]
+    [Authorize(Roles = "Admin,Director")]
     public class LanguagesController : Controller
     {
         private readonly ApplicationDbContext _context;

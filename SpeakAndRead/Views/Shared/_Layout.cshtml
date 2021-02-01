@@ -24,13 +24,13 @@
                     <partial name="_LoginPartial" />
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
                             <a class="nav-link text-light" asp-area="" asp-controller="Courses" asp-action="Index">Courses</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-light" asp-area="" asp-controller="Reviews" asp-action="index">Reviews</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Teachers">Teachers</a>
                         </li>
                         @if (SignInManager.IsSignedIn(User))
                         {
@@ -41,7 +41,7 @@
                                 <a class="nav-link text-light" asp-area="" asp-controller="Lessons" asp-action="Index">Lessons</a>
                             </li>
                         }
-                        @if (User.IsInRole("Admin"))
+                        @if (User.IsInRole("Admin") || User.IsInRole("Director"))
                         {
 
                             <li class="nav-item">
@@ -53,6 +53,10 @@
                             <li class="nav-item">
                                 <a class="nav-link text-light" asp-area="" asp-controller="Admin" asp-action="CreateEnroll">Enrollment</a>
                             </li>
+
+                        }
+                        @if (User.IsInRole("Admin"))
+                        {
                             <li class="nav-item">
                                 <a class="nav-link text-light" asp-area="" asp-controller="Admin" asp-action="AddRole">Roles</a>
                             </li>
@@ -62,7 +66,7 @@
             </div>
         </nav>
     </header>
-    <div class="container">
+    <div class="container" >
         <main role="main" class="pb-3">
             @RenderBody()
         </main>

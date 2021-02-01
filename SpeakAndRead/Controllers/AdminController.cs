@@ -26,12 +26,30 @@ namespace SpeakAndRead.Controllers
             _roleManager = roleManager;
 
         }
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin,Director")]
         public IActionResult Index()
         {
             var users = _context.Users.ToList();
 
             return View(users);
+        }
+
+        public async Task<IActionResult> Details(string? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var user = await _context.Users
+                .FirstOrDefaultAsync(u => u.Id == id);
+
+            if (user == null)
+            {
+                return NotFound();
+            }
+
+            return View(user);
         }
 
         [Authorize(Roles = "Admin")]

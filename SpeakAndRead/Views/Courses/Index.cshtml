@@ -5,17 +5,9 @@
 }
 
 <h1>Courses</h1>
-@if ((User.IsInRole("Admin")) || (User.IsInRole("Director")))
-{
-    <div class="btn btn-primary mb-2 mt-2" >
 
-        <a asp-action="Create" style="color:whitesmoke">Create New</a>
-    </div>
-
-
-}
 <table class="table">
-    <thead>
+    <thead class="thead-dark">
         <tr>
             <th>
                 @Html.DisplayNameFor(model => model.CourseName)
@@ -23,7 +15,7 @@
             <th>
                 @Html.DisplayNameFor(model => model.Level)
             </th>
-           
+
             <th>
                 @Html.DisplayNameFor(model => model.Price)
             </th>
@@ -43,7 +35,7 @@
                 <td>
                     @Html.DisplayFor(modelItem => item.Level)
                 </td>
-               
+
                 <td>
                     @Html.DisplayFor(modelItem => item.Price)
                 </td>
@@ -77,3 +69,13 @@
         }
     </tbody>
 </table>
+
+@if ((User.IsInRole("Admin")) || (User.IsInRole("Director")))
+{
+    <div class="btn btn-primary mb-2 mt-2">
+
+        <a asp-action="Create" style="color:whitesmoke">Create New</a>
+    </div>
+
+
+}
